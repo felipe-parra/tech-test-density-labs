@@ -8,7 +8,7 @@ export default function todoReducer() {
         id: state.todos.length + 1,
         title: action.payload.title,
         description: action.payload.description,
-        completed: false,
+        completed: action.payload.completed || false,
       });
     },
     toggleTodo: (state: TodoState, action: PayloadAction<Todo>) => {

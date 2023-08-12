@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import todoReducer from "./todoReducer";
 
 export interface Todo {
-  id: number;
+  id?: number;
   title: string;
   description: string;
   completed: boolean;
