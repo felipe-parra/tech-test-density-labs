@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/felipe-parra/tech-test-density-labs">
-    <img src="https://github.com/felipe-parra/tech-test-density-labs/blob/master/public/logo.png" alt="Logo" width="auto" height="80"
+    <img src="https://github.com/felipe-parra/tech-test-density-labs/blob/master/public/logo.png" alt="Logo" width="auto" height="250"
     style="filter: brightness(1) invert(1);"
     >
   </a>
 
-<h2 align="center">XILO POS</h2>
+<h2 align="center">Technical Test - Density Labs</h2>
 
   <p align="center">
   Developed by Felipe Parra with ❤️
