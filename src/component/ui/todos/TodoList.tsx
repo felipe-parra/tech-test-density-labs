@@ -11,8 +11,8 @@ export default function TodoList() {
     dispatch(toggleTodo(todo))
   }
   return (
-    <section className="w-full">
-      <article>
+    <section className="w-full h-full overflow-hidden">
+      <article className="h-auto">
         <h1>Todos</h1>
       </article>
       <article>
