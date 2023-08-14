@@ -12,7 +12,11 @@ const Links = [
   {
     name: 'Todos',
     path: '/todos'
-  }
+  },
+  {
+    name: 'Pokemon',
+    path: '/pokemon'
+  },
 ]
 
 export default function Navbar() {
