@@ -7,6 +7,8 @@ import Home from "./pages/Home";
 import Todos from "./pages/Todos";
 import Counter from "./pages/Counter";
 import GenericLayout from "./component/layouts/GenericLayout";
+import Pokemon from "./pages/Pokemon";
+import PokemonDetail from "./pages/PokemonDetail";
 
 export function Router() {
   return (
@@ -16,6 +18,8 @@ export function Router() {
         <Route path="/home" element={<Home />} />
         <Route path="/todos" element={<Todos />} />
         <Route path="/counter" element={<Counter />} />
+        <Route path="/pokemon" element={<Pokemon />} />
+        <Route path="/pokemon/:pokemonId" element={<PokemonDetail />} />
       </Routes>
     </GenericLayout>
   )
