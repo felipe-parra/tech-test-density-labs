@@ -9,7 +9,7 @@ function App() {
   return (
     <ReduxProvider>
       {/* <Router />  */}
-      <RouterProvider router={RouterProviderWrapper} />
+      <RouterProvider router={RouterProviderWrapper} fallbackElement={<p>Initial Load...</p>} />
     </ReduxProvider>
 
   )
