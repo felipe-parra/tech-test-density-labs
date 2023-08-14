@@ -6,9 +6,7 @@ import { Provider as ReduxProvider } from './redux/provider'
 import { RouterProviderWrapper } from './routes'
 
 function App() {
-
   return (
-
     <ReduxProvider>
       {/* <Router />  */}
       <RouterProvider router={RouterProviderWrapper} />

@@ -47,7 +47,7 @@ export default function TodoForm() {
     }
   }
   return (
-    <form onSubmit={handleSubmit} className='w-full flex flex-col items-center'>
+    <form onSubmit={handleSubmit} className='w-full h-96 flex flex-col items-center'>
       <section className='w-1/3 flex flex-col'>
         <article className='flex flex-col text-start'>
           <label htmlFor="title">Title</label>

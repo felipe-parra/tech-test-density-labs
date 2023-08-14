@@ -16,7 +16,7 @@ export default function Counter() {
   //   incrementByAmountClick(amount)
   // }
   return (
-    <section className="w-full">
+    <section className="w-full h-screen flex flex-col items-center pt-10">
       <article>
         <h1>Counter</h1>
         <p>{counter}</p>
