@@ -21,6 +21,9 @@
   </p>
 </div>
 
+## Demo
+Check out the live demo: [https://availability-lights.vercel.app/](https://tech-test-density-labs.vercel.app/)
+
 ## 🚀 Getting Start
 
 To have a local copy and run the project, follow these simple steps.
