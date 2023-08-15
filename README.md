@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/felipe-parra/tech-test-density-labs">
-    <img src="https://github.com/felipe-parra/tech-test-density-labs/blob/master/public/logo.png" alt="Logo" width="auto" height="250"
+    <img src="https://github.com/felipe-parra/tech-test-density-labs/blob/pokemon/src/assets/Pokemon-Logo.png" alt="Logo" width="auto" height="250"
     style="filter: brightness(1) invert(1);"
     >
   </a>
