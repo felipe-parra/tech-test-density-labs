@@ -22,7 +22,7 @@
 </div>
 
 ## Demo
-Check out the live demo: [https://availability-lights.vercel.app/](https://tech-test-density-labs.vercel.app/)
+Check out the live demo: [https://tech-test-density-labs.vercel.app/](https://tech-test-density-labs.vercel.app/)
 
 ## 🚀 Getting Start
 
